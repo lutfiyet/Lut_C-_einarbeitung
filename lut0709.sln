@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lut0709", "lut0709\lut0709.csproj", "{010C07CA-A43B-49CE-AA04-C0B9B63A58D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LutInterface", "LutInterface\LutInterface.csproj", "{CBB21360-366A-4BFB-B923-EFF65F9340A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010C07CA-A43B-49CE-AA04-C0B9B63A58D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010C07CA-A43B-49CE-AA04-C0B9B63A58D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010C07CA-A43B-49CE-AA04-C0B9B63A58D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010C07CA-A43B-49CE-AA04-C0B9B63A58D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB21360-366A-4BFB-B923-EFF65F9340A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB21360-366A-4BFB-B923-EFF65F9340A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB21360-366A-4BFB-B923-EFF65F9340A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB21360-366A-4BFB-B923-EFF65F9340A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4213EDF4-6CB3-4EF3-9347-B8BED612C230}
+	EndGlobalSection
+EndGlobal
